@@ -1,0 +1,43 @@
+
+
+div {
+    position: relative;
+    text-align: center;
+
+
+}
+div.nag{
+    Position: relative;
+    text-align: center;
+    background-image: url("http://newsin3d.com/store/images/uploads/news_background4.jpg");
+    border-radius: 10px;
+
+}
+h1 {
+    font-size: 32px;
+    font-family: "DejaVu Serif";
+
+}
+img {
+   height: 200px;
+    width: 400px;
+}
+form {
+    background-image: url("http://newsin3d.com/store/images/uploads/news_background4.jpg");
+    background-attachment: fixed;
+    border-radius: 10px;
+    text-align: center;
+}
+h1, h2, p, form{
+    color: #14ff5c;
+}
+h2{
+    font-size: 40px;
+}
+div.box {
+    position: relative;
+    margin: 20 0 20 0;
+float: left;
+    border:2px solid darkred;
+
+}
